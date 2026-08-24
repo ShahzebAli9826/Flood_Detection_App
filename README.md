@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌊 AEGIS: AI-Powered Multimodal Satellite Flood Detection & Autonomous Disaster Responses System
+# 🌊 AEGIS: AI-Powered Multimodal Satellite Flood Detection & Autonomous Disaster Response System
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
